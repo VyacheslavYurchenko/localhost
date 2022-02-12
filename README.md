@@ -1,2 +1,2 @@
-# php-blog
+# localhost
 Блог на Php и MySQL 
